@@ -1,0 +1,5 @@
+# Default ignored files
+.idea/*
+/HelloWorld.iml
+/modules.xml
+/vcs.xml
