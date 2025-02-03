@@ -1,8 +1,8 @@
-# Peoples Names  
-Tom  
+# Peoples Names
+Tom    
 Sam    
-Ann  
-Bill   
-# Colors   
-Red   
-Blue   
+Ann   
+Bill    
+# Animals
+Dog    
+Cat    
